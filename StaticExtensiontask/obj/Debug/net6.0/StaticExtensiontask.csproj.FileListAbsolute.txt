@@ -1,0 +1,15 @@
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/bin/Debug/net6.0/StaticExtensiontask
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/bin/Debug/net6.0/StaticExtensiontask.deps.json
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/bin/Debug/net6.0/StaticExtensiontask.runtimeconfig.json
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/bin/Debug/net6.0/StaticExtensiontask.dll
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/bin/Debug/net6.0/ref/StaticExtensiontask.dll
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/bin/Debug/net6.0/StaticExtensiontask.pdb
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.csproj.AssemblyReference.cache
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.AssemblyInfoInputs.cache
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.AssemblyInfo.cs
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.dll
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/ref/StaticExtensiontask.dll
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.pdb
+/Users/imac/Projects/StaticExtensiontask/StaticExtensiontask/obj/Debug/net6.0/StaticExtensiontask.genruntimeconfig.cache
